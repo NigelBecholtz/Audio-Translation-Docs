@@ -27,6 +27,7 @@ const config: ZudokuConfig = {
             "01-overview",
             "02-getting-started",
             "03-environment-configuration",
+            "11-login",
           ],
         },
         {
