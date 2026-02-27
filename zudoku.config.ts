@@ -1,6 +1,7 @@
 import type { ZudokuConfig } from "zudoku";
 
 const config: ZudokuConfig = {
+  basePath: "/Audio-Translation-Docs",
   site: {
     title: "Audio Translation – Documentation",
     logo: {
