@@ -27,7 +27,6 @@ const config: ZudokuConfig = {
             "01-overview",
             "02-getting-started",
             "03-environment-configuration",
-            "11-login",
           ],
         },
         {
@@ -47,6 +46,7 @@ const config: ZudokuConfig = {
             "08-deployment",
             "09-troubleshooting",
             "10-google-service-account-setup",
+            "11-login",
           ],
         },
       ],
